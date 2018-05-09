@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="113">
-              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -30,9 +30,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="449" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="577" />
+    <option name="y" value="79" />
     <option name="width" value="1440" />
     <option name="height" value="821" />
   </component>
@@ -107,8 +107,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="449" y="23" width="1440" height="821" extended-state="1" />
-    <editor active="true" />
+    <frame x="577" y="79" width="1440" height="821" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -157,7 +156,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
-          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
