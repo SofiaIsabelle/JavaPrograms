@@ -15,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="50" column="58" lean-forward="true" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+            <state relative-caret-position="297">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="54" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -31,8 +31,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="466" />
-    <option name="y" value="24" />
+    <option name="x" value="668" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
@@ -102,7 +102,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="466" y="24" width="1440" height="823" extended-state="0" />
+    <frame x="668" y="23" width="1440" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -145,8 +146,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="50" column="58" lean-forward="true" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        <state relative-caret-position="297">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="54" selection-end-column="5" />
         </state>
       </provider>
     </entry>
