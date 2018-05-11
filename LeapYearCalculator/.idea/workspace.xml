@@ -24,8 +24,8 @@
       <file leaf-file-name="isLeapYear.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/isLeapYear.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="195">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -47,8 +47,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="494" />
-    <option name="y" value="24" />
+    <option name="x" value="49" />
+    <option name="y" value="23" />
     <option name="width" value="1315" />
     <option name="height" value="592" />
   </component>
@@ -133,8 +133,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="228" y="23" width="1315" height="592" extended-state="0" />
-    <editor active="true" />
+    <frame x="49" y="23" width="1315" height="592" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -177,8 +176,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/isLeapYear.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
