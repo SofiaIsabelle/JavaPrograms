@@ -27,5 +27,11 @@ public class MealTime {
             e.printStackTrace();
         }
 
+
     }
+
+   /* public static void askWhatYouAteFor(String meal) {
+
+        System.out.println("What did you eat for " + meal + " ?");
+    }*/
 }
