@@ -1,7 +1,18 @@
 import models.Vehicle;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
 public class App {
-    public static void main(String[] args) {
+
+public static void main(String[]args) {
+    BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+    System.out.println("What is your maximum budget for a vehicle ?");
+
+    try {
+        String stringUserMaxBudget = bufferedReader.readLine();
+
         Vehicle hatchback = new Vehicle();
         hatchback.year = 1994;
         hatchback.brand = "Subaru";
@@ -30,23 +41,39 @@ public class App {
         truck.miles = 10000;
         truck.price = 4000;
 
-        /* When you create a new object it is called instantiation because it is an instance of its class */
 
-        Vehicle[] allVehicles = {hatchback, suv, sedan, truck}; /* Adding all the instances of Vehicle that we've created to an Array that we called allVehicles */
-        System.out.println("All Vehicles : ");
+        Vehicle crossover = new Vehicle();
+        crossover.year = 1998;
+        crossover.brand = "Toyota";
+        crossover.model = "Rav-4";
+        crossover.miles = 200000;
+        crossover.price = 3500;
 
-        /* Looping through the allVehicles array that we just created in order to display details about each */
+        Vehicle[] allVehicles = {hatchback, suv, sedan, truck, crossover};
+
+        int userMaxBudget = Integer.parseInt(stringUserMaxBudget);
+
+        System.out.println("Alright, here's what we have within your price range: ");
 
         for(Vehicle individualVehicle : allVehicles){
-            System.out.println("----------------------------------");
-            System.out.println(individualVehicle.year);
-            System.out.println(individualVehicle.brand);
-            System.out.println(individualVehicle.model);
-            System.out.println(individualVehicle.miles);
-            System.out.println(individualVehicle.price);
+            if(individualVehicle.worthBuying(userMaxBudget)){
+                System.out.println("------------------------");
+                System.out.println(individualVehicle.year);
+                System.out.println(individualVehicle.brand);
+                System.out.println(individualVehicle.model);
+                System.out.println(individualVehicle.miles);
+                System.out.println(individualVehicle.price);
+
+            }
         }
 
 
-
     }
-}
+        catch (IOException e) {
+        e.printStackTrace();
+
+
+       }
+    }
+
+  }
