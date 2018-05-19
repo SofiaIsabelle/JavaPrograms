@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="378f3ffb-9205-42f6-a4cb-a3fc245a3c5c" name="Default" comment="" />
+    <list default="true" id="22f5bbfd-727f-4fe1-845c-c47282a71c6c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,17 +15,26 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MealTime.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MealTime.java">
+      <file leaf-file-name="PingPong.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java-Ping-Pong-StarterCode/src/main/java/models/PingPong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PingPongTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java-Ping-Pong-StarterCode/src/test/java/PingPongTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,25 +44,19 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MealTime.java" />
+        <option value="$PROJECT_DIR$/Java-Ping-Pong-StarterCode/src/main/java/models/PingPong.java" />
+        <option value="$PROJECT_DIR$/Java-Ping-Pong-StarterCode/src/test/java/PingPongTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
+    <option name="x" value="188" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="821" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -64,29 +67,57 @@
         <subPane>
           <expand>
             <path>
-              <item name="MealTime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MealTime" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Ping-Pong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Ping-Pong" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MealTime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MealTime" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Ping-Pong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Ping-Pong" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Ping-Pong-StarterCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Ping-Pong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Ping-Pong" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Ping-Pong-StarterCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MealTime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Ping-Pong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Ping-Pong" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Ping-Pong-StarterCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Ping-Pong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Ping-Pong" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Ping-Pong-StarterCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Ping-Pong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Ping-Pong" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Ping-Pong-StarterCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Ping-Pong" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,43 +131,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MealTime">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.sofiaisabelle.Main" />
-      <module name="MealTime" />
+      <module name="Java-Ping-Pong" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="MealTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MealTime" />
-      <module name="MealTime" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MealTime" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MealTime" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="378f3ffb-9205-42f6-a4cb-a3fc245a3c5c" name="Default" comment="" />
-      <created>1526058710708</created>
+      <changelist id="22f5bbfd-727f-4fe1-845c-c47282a71c6c" name="Default" comment="" />
+      <created>1526661534263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1526058710708</updated>
+      <updated>1526661534263</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1440" height="821" extended-state="0" />
+    <frame x="188" y="23" width="1440" height="778" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -145,9 +163,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34668508" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32892805" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33476394" />
@@ -163,29 +181,30 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MealTime.java">
+    <entry file="file://$PROJECT_DIR$/Java-Ping-Pong-StarterCode/src/main/java/models/PingPong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java-Ping-Pong-StarterCode/src/test/java/PingPongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -194,15 +213,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MealTime.java">
+    <entry file="file://$PROJECT_DIR$/Java-Ping-Pong-StarterCode/src/main/java/models/PingPong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java-Ping-Pong-StarterCode/src/test/java/PingPongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

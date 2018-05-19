@@ -1,4 +1,4 @@
-import javafx.beans.binding.When;
+/* import javafx.beans.binding.When; */
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -38,4 +38,4 @@ public class Hotel {
 }
 
 
-/*  When should I use a wrapper class over a primitive type ?
+/*  When should I use a wrapper class over a primitive type ? */
