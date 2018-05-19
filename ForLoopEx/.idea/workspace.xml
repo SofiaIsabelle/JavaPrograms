@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f39acffe-1fef-48fe-8f20-d346d6afc4b9" name="Default" comment="" />
+    <list default="true" id="f8527e82-667b-45c1-b1c8-238e096172af" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +11,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForLoopExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ForLoopExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,12 +42,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CircleDemo.java" />
+        <option value="$PROJECT_DIR$/src/ForLoopExample.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="257" />
+    <option name="x" value="217" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
@@ -38,25 +57,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AreaOfCircle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AreaOfCircle" type="462c0819:PsiDirectoryNode" />
+              <item name="ForLoopEx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ForLoopEx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AreaOfCircle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AreaOfCircle" type="462c0819:PsiDirectoryNode" />
+              <item name="ForLoopEx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ForLoopEx" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -71,25 +90,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CircleDemo">
-    <configuration name="CircleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CircleDemo" />
-      <module name="AreaOfCircle" />
+  <component name="RunManager" selected="Application.ForLoopExample">
+    <configuration name="ForLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopExample" />
+      <module name="ForLoopEx" />
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.sofiaisabelle.Main" />
-      <module name="AreaOfCircle" />
+      <module name="ForLoopEx" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.CircleDemo" />
+      <item itemvalue="Application.ForLoopExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircleDemo" />
+        <item itemvalue="Application.ForLoopExample" />
       </list>
     </recent_temporary>
   </component>
@@ -98,16 +117,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f39acffe-1fef-48fe-8f20-d346d6afc4b9" name="Default" comment="" />
-      <created>1526756505037</created>
+      <changelist id="f8527e82-667b-45c1-b1c8-238e096172af" name="Default" comment="" />
+      <created>1526769152112</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1526756505037</updated>
+      <updated>1526769152112</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="257" y="23" width="1440" height="828" extended-state="0" />
+    <frame x="217" y="23" width="1440" height="828" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -118,10 +137,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32968536" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32968536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33476394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -141,7 +160,33 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/CircleDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForLoopExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForLoopExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
