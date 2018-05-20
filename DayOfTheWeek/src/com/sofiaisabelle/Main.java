@@ -3,10 +3,21 @@ package com.sofiaisabelle;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // you can test your printDayOfTheWeek method here within the main method
+        printDayOfTheWeek(-5);
+        printDayOfTheWeek(1);
+        printDayOfTheWeek(2);
+        printDayOfTheWeek(3);
+        printDayOfTheWeek(4);
+        printDayOfTheWeek(5);
+        printDayOfTheWeek(6);
+        printDayOfTheWeek(7);
 
-        int switchValue = 8;
-        switch(switchValue){
+    }
+
+    private static void printDayOfTheWeek(int day){
+
+        switch(day) {
             case 1:
                 System.out.println("Sunday");
                 break;
@@ -29,8 +40,13 @@ public class Main {
                 System.out.println("Saturday");
                 break;
             default:
-                System.out.println("There are only 7 days in a week. ");
+                System.out.println("There are only 7 days in a week. Invalid day was entered.");
+                break;
+
+           }
 
         }
-    }
-}
+
+     }
+
+
