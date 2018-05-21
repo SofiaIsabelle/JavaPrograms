@@ -25,7 +25,10 @@ public class Main {
             if (isPrime(i)) {
                 count++;
                 System.out.println("Number " + i + " is a Prime Number.");
-
+               /* if(count == 3){
+                    System.out.println("Exiting the for loop");
+                    break; */
+                //  }
                 }
             }
         }
