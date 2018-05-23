@@ -2,16 +2,6 @@ package com.sofiaisabelle;
 
 public class BankAccount {
 
-    //create bank account class
-    // create fields for  account number, balance, customer name, email, phone number
-    //create getters and setters for each field
-    //create two additional methods
-      // 1. to allow customers to deposit funds
-      // 2. to allow customers to withdraw funds, this should deduct from the balance field
-      // 3. do not allow withdrawal to complete if their insufficient funds
-      // 4. create code in the Main class to confirm that your code is working
-      // 5. Add some System.out.println in the two methods above as well
-
       private String number;
       private double balance;
       private String customerName;
@@ -21,7 +11,7 @@ public class BankAccount {
 
 
      public BankAccount(){
-         System.out.println("Empty constructor called");
+         this("default num",2.50,"default name","default email","default phone");
 
      }
 
