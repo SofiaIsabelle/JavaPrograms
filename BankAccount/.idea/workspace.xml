@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f112cc7-c0bd-41cb-8754-6b5e8ca238b1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BankAccount/com/sofiaisabelle/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankAccount/com/sofiaisabelle/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BankAccount/com/sofiaisabelle/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankAccount/com/sofiaisabelle/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sofiaisabelle/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofiaisabelle/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sofiaisabelle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofiaisabelle/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -19,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VipPerson.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VipPerson.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/VipPerson.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
               <folding>
                 <element signature="e#169#170#0" expanded="true" />
                 <element signature="e#235#236#0" expanded="true" />
@@ -50,8 +47,8 @@
       <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -73,13 +70,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/sofiaisabelle/BankAccount.java" />
         <option value="$PROJECT_DIR$/src/com/sofiaisabelle/vipPerson.java" />
-        <option value="$PROJECT_DIR$/src/com/sofiaisabelle/Main.java" />
         <option value="$PROJECT_DIR$/src/com/sofiaisabelle/VipPerson.java" />
+        <option value="$PROJECT_DIR$/src/com/sofiaisabelle/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="335" />
+    <option name="x" value="73" />
     <option name="y" value="23" />
     <option name="width" value="1393" />
     <option name="height" value="824" />
@@ -160,8 +157,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="23" width="1393" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="73" y="23" width="1393" height="824" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -171,9 +167,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003701" side_tool="true" weight="0.3287483" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287483" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287483" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996299" weight="0.3287483" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4996299" visible="true" weight="0.3287483" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1761658" />
@@ -258,24 +254,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/VipPerson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
           <folding>
             <element signature="e#169#170#0" expanded="true" />
             <element signature="e#235#236#0" expanded="true" />
@@ -286,6 +268,20 @@
             <element signature="e#714#715#0" expanded="true" />
             <element signature="e#749#750#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sofiaisabelle/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
